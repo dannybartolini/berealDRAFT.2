@@ -30,6 +30,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/dannybartolini/lab_6/blob/main/BeReal2gif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+https://github.com/dannybartolini/lab_6/blob/main/BeReal2gif.gif
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 <!-- Recommended tools:
